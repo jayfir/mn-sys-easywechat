@@ -1,17 +1,18 @@
 {
-    "name": "overtrue/wechat",
+    "name": "jayfir/mn-sys-easywechat",
     "description": "微信SDK",
     "keywords": [
         "wechat",
         "weixin",
         "weixin-sdk",
-        "sdk"
+        "sdk",
+		"jayfir"
     ],
     "license": "MIT",
     "authors": [
         {
-            "name": "overtrue",
-            "email": "anzhengchao@gmail.com"
+            "name": "mn",
+            "email": "chinhui@gmail.com"
         }
     ],
     "require": {
